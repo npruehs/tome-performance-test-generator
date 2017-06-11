@@ -26,8 +26,7 @@
                     DisplayName = $"Field{i}",
                     Type = "String",
                     DefaultValue = $"DefaultValue{i}",
-                    Description = $"Description{i}",
-                    Facets = new List<Facet> { new Facet { Key = "MaxLength", Value = "0" } }
+                    Description = $"Description{i}"
                 };
                 fields.FieldList.Add(field);
             }

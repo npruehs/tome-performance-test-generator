@@ -43,7 +43,6 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Facet.cs" />
     <Compile Include="Field.cs" />
     <Compile Include="Fields.cs" />
     <Compile Include="Program.cs" />

@@ -16,9 +16,6 @@
         [XmlAttribute]
         public string DisplayName;
 
-        [XmlElement("Facet")]
-        public List<Facet> Facets;
-
         [XmlAttribute]
         public string Id;
 
